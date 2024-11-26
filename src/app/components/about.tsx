@@ -6,7 +6,7 @@ const Aboutcom = () => {
     <div>
       <div>
       <div className="sm:flex sm:flex-row flex flex-col-reverse mt-4 mx-4 bg-orange-100 rounded-xl shadow-xl">
-        <p className="sm:w-1/2 w-[450px] px-5 leading-7 p-10 text-xl">
+        <p className="sm:w-1/2 w-[320px] px-5 leading-7 p-10 text-xl">
           Hi, I am a 30-year-old frontend developer with a passion for crafting
           visually appealing and highly functional user interfaces. Despite my
           education being at the matric level, I have honed my skills in web
