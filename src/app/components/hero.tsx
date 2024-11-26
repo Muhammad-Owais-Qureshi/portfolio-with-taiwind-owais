@@ -9,7 +9,7 @@ const Hero = () => {
   return (
     <div>
       <div className="sm:flex sm:justify-around sm:flex-row mt-5 px-5 flex flex-col-reverse">
-        <div className="md:w-1/2 leading-6 w-96 ml-2 mt-4">
+        <div className="md:w-1/2 leading-6 w-80 ml-2 mt-4">
           <h1 className="">
             Hello my name is
             <span className="text-orange-400 font-semibold text-2xl px-2">
